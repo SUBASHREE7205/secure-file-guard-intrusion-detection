@@ -1,0 +1,37 @@
+[2026-02-18 18:39:55] CONNECTED: ('127.0.0.1', 64148)
+[2026-02-18 18:39:55] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\SecureWatch\clr.exe
+[2026-02-18 18:39:55] DISCONNECTED: ('127.0.0.1', 64148)
+[2026-02-18 18:53:48] CONNECTED: ('127.0.0.1', 51844)
+[2026-02-18 18:53:48] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\SecureWatch\shee.exe
+[2026-02-18 18:53:48] DISCONNECTED: ('127.0.0.1', 51844)
+[2026-02-18 18:59:36] CONNECTED: ('127.0.0.1', 62987)
+[2026-02-18 18:59:36] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\SecureWatch\ss.exe
+[2026-02-18 18:59:36] ERROR: module 'web_dashboard' has no attribute 'add_alert'
+[2026-02-18 18:59:36] DISCONNECTED: ('127.0.0.1', 62987)
+[2026-02-18 19:07:37] CONNECTED: ('127.0.0.1', 59459)
+[2026-02-18 19:07:37] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\SecureWatch\mad.exe
+[2026-02-18 19:07:37] DISCONNECTED: ('127.0.0.1', 59459)
+[2026-02-18 19:29:08] CONNECTED: ('127.0.0.1', 64113)
+[2026-02-18 19:29:08] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\SecureWatch\hees.exe
+[2026-02-18 19:29:08] DISCONNECTED: ('127.0.0.1', 64113)
+[2026-02-19 12:01:33] CONNECTED: ('127.0.0.1', 49251)
+[2026-02-19 12:01:33] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\SecureWatch\gayu.exe
+[2026-02-19 12:01:34] DISCONNECTED: ('127.0.0.1', 49251)
+[2026-02-23 14:37:21] CONNECTED: ('127.0.0.1', 54030)
+[2026-02-23 14:37:21] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\SecureWatch\ult1.exe
+[2026-02-23 14:37:21] DISCONNECTED: ('127.0.0.1', 54030)
+[2026-03-02 10:57:55] CONNECTED: ('127.0.0.1', 51708)
+[2026-03-02 10:57:55] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\SecureWatch\live.exe
+[2026-03-02 10:57:55] DISCONNECTED: ('127.0.0.1', 51708)
+[2026-03-03 12:33:21] CONNECTED: ('127.0.0.1', 49629)
+[2026-03-03 12:33:21] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\Downloads\samp.exe
+[2026-03-03 12:33:24] Dashboard updated successfully
+[2026-03-03 12:33:24] DISCONNECTED: ('127.0.0.1', 49629)
+[2026-03-03 12:52:41] CONNECTED: ('127.0.0.1', 50021)
+[2026-03-03 12:52:41] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\OneDrive\Desktop\ooo.exe
+[2026-03-03 12:52:44] Dashboard updated successfully
+[2026-03-03 12:52:44] DISCONNECTED: ('127.0.0.1', 50021)
+[2026-03-03 12:58:49] CONNECTED: ('127.0.0.1', 62226)
+[2026-03-03 12:58:49] ALERT RECEIVED: Malicious file blocked: C:\Users\admin\OneDrive\Desktop\js.exe
+[2026-03-03 12:58:51] Dashboard updated successfully
+[2026-03-03 12:58:51] DISCONNECTED: ('127.0.0.1', 62226)

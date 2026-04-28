@@ -1,0 +1,3122 @@
+{
+    "files": [
+        {
+            "id": 1,
+            "filename": "\\Users\\admin\\Downloads\\grt.exe",
+            "sender": "system_scanner",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "External malware detected",
+            "status": "Blocked",
+            "timestamp": "2026-03-19 12:32:18"
+        },
+        {
+            "id": 2,
+            "filename": "\\Users\\admin\\Downloads\\dog.exe",
+            "sender": "system_scanner",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "External malware detected",
+            "status": "Blocked",
+            "timestamp": "2026-03-19 12:54:10"
+        },
+        {
+            "id": 3,
+            "filename": "\\Users\\admin\\Downloads\\wee.exe",
+            "sender": "system_scanner",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "External malware detected",
+            "status": "Blocked",
+            "timestamp": "2026-03-20 09:47:26"
+        },
+        {
+            "id": 4,
+            "filename": "subashree R.pdf",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "Unknown",
+            "threat_level": "low",
+            "reason": "Safe file (Policy Blocked)",
+            "status": "Blocked",
+            "timestamp": "2026-03-20 09:50:30"
+        },
+        {
+            "id": 5,
+            "filename": "subashree R.pdf",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "Unknown",
+            "threat_level": "low",
+            "reason": "Safe file (Policy Blocked)",
+            "status": "Blocked",
+            "timestamp": "2026-03-20 09:50:32"
+        },
+        {
+            "id": 6,
+            "filename": "03 - Unakaga.mp3",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "Unknown",
+            "threat_level": "medium",
+            "reason": "Media files blocked by policy",
+            "status": "Blocked",
+            "timestamp": "2026-03-20 09:53:06"
+        },
+        {
+            "id": 7,
+            "filename": "\\Users\\admin\\Downloads\\CursorUserSetup-x64-2.6.20 (1).exe",
+            "sender": "system_scanner",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "External malware detected",
+            "status": "Blocked",
+            "timestamp": "2026-03-23 09:37:40"
+        },
+        {
+            "id": 8,
+            "filename": "\\Users\\admin\\Downloads\\CursorUserSetup-x64-2.6.20.exe",
+            "sender": "system_scanner",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "External malware detected",
+            "status": "Blocked",
+            "timestamp": "2026-03-23 09:37:45"
+        },
+        {
+            "id": 9,
+            "filename": "Batch 8 - report.pdf",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "Unknown",
+            "threat_level": "low",
+            "reason": "Safe file (Policy Blocked)",
+            "status": "Blocked",
+            "timestamp": "2026-03-23 09:37:45"
+        },
+        {
+            "id": 10,
+            "filename": "\\Users\\admin\\Downloads\\mongodb-windows-x86_64-8.2.5-signed.msi",
+            "sender": "system_scanner",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "External malware detected",
+            "status": "Blocked",
+            "timestamp": "2026-03-23 09:37:49"
+        },
+        {
+            "id": 11,
+            "filename": "tcni.pdf",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "Unknown",
+            "threat_level": "low",
+            "reason": "Safe file (Policy Blocked)",
+            "status": "Blocked",
+            "timestamp": "2026-03-23 09:57:03"
+        },
+        {
+            "id": 12,
+            "filename": "WhatsApp Image 2026-03-19 at 12.18.42 PM.jpeg",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "Unknown",
+            "threat_level": "low",
+            "reason": "Safe file (Policy Blocked)",
+            "status": "Blocked",
+            "timestamp": "2026-03-23 09:57:36"
+        },
+        {
+            "id": 13,
+            "filename": "\\Users\\admin\\Downloads\\script.vbs",
+            "sender": "system_scanner",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "External malware detected",
+            "status": "Blocked",
+            "timestamp": "2026-03-23 11:59:51"
+        },
+        {
+            "id": 14,
+            "filename": "\\Users\\admin\\Downloads\\virus.exe",
+            "sender": "system_scanner",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "External malware detected",
+            "status": "Blocked",
+            "timestamp": "2026-03-23 12:01:19"
+        },
+        {
+            "id": 15,
+            "filename": "hidden.rar",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Suspicious small file",
+            "status": "Blocked",
+            "timestamp": "2026-03-23 12:13:00"
+        },
+        {
+            "id": 16,
+            "filename": "info pdf-1-8-3.pdf",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "341194 bytes",
+            "threat_level": "medium",
+            "reason": "Document file",
+            "status": "blocked",
+            "timestamp": "2026-03-25 10:17:21"
+        },
+        {
+            "id": 17,
+            "filename": "Untitled.mp4",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe file (blocked by policy)",
+            "status": "blocked",
+            "timestamp": "2026-03-25 10:27:38"
+        },
+        {
+            "id": 18,
+            "filename": "\\Users\\admin\\Downloads\\use.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-03-25 11:16:32"
+        },
+        {
+            "id": 19,
+            "filename": "Antigravity (1).exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:28"
+        },
+        {
+            "id": 20,
+            "filename": "Antigravity.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:30"
+        },
+        {
+            "id": 21,
+            "filename": "esbuild.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:32"
+        },
+        {
+            "id": 22,
+            "filename": "esbuild.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:36"
+        },
+        {
+            "id": 23,
+            "filename": "esbuild.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:38"
+        },
+        {
+            "id": 24,
+            "filename": "esbuild.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:40"
+        },
+        {
+            "id": 25,
+            "filename": "esbuild.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:41"
+        },
+        {
+            "id": 26,
+            "filename": "esbuild.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:43"
+        },
+        {
+            "id": 27,
+            "filename": "esbuild.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:45"
+        },
+        {
+            "id": 28,
+            "filename": "esbuild.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:47"
+        },
+        {
+            "id": 29,
+            "filename": "esbuild.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:52:49"
+        },
+        {
+            "id": 30,
+            "filename": "ibm certificate AI.pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 10:58:25"
+        },
+        {
+            "id": 31,
+            "filename": "desktop.ini",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 11:41:31"
+        },
+        {
+            "id": 32,
+            "filename": "desktop.ini",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 11:41:33"
+        },
+        {
+            "id": 33,
+            "filename": "Your Chrome - Chrome.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 11:41:59"
+        },
+        {
+            "id": 34,
+            "filename": "Comet.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 11:42:01"
+        },
+        {
+            "id": 35,
+            "filename": "Antigravity.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 11:42:03"
+        },
+        {
+            "id": 36,
+            "filename": "Visual Studio Code.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 11:42:05"
+        },
+        {
+            "id": 37,
+            "filename": "MongoDBCompass.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-02 11:42:07"
+        },
+        {
+            "id": 38,
+            "filename": "Employee-Management-System.pptx",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-06 10:37:22"
+        },
+        {
+            "id": 39,
+            "filename": "MongoDBCompass.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-06 11:50:39"
+        },
+        {
+            "id": 40,
+            "filename": "Visual Studio Code.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-06 11:50:42"
+        },
+        {
+            "id": 41,
+            "filename": "Your Chrome - Chrome.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-06 11:50:45"
+        },
+        {
+            "id": 42,
+            "filename": "Comet.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-06 11:50:48"
+        },
+        {
+            "id": 43,
+            "filename": "Antigravity.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-06 11:50:51"
+        },
+        {
+            "id": 44,
+            "filename": "Antigravity.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-08 10:54:24"
+        },
+        {
+            "id": 45,
+            "filename": "subashree R.pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-13 09:29:02"
+        },
+        {
+            "id": 46,
+            "filename": "login-bg.jpg.jpeg",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "71031 bytes",
+            "threat_level": "low",
+            "reason": "Safe file (blocked by policy)",
+            "status": "blocked",
+            "timestamp": "2026-04-13 09:46:35"
+        },
+        {
+            "id": 47,
+            "filename": "Employee-Management-System (1).pptx",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "13145086 bytes",
+            "threat_level": "low",
+            "reason": "Safe file (blocked by policy)",
+            "status": "blocked",
+            "timestamp": "2026-04-13 09:57:48"
+        },
+        {
+            "id": 48,
+            "filename": "package.json",
+            "sender": "test@test.com",
+            "size": "1115 bytes",
+            "threat_level": "low",
+            "reason": "Safe file (blocked by policy)",
+            "status": "blocked",
+            "timestamp": "2026-04-13 09:58:27"
+        },
+        {
+            "id": 49,
+            "filename": "subashree R.pdf",
+            "sender": "test@test.com",
+            "size": "1115 bytes",
+            "threat_level": "medium",
+            "reason": "Document file",
+            "status": "blocked",
+            "timestamp": "2026-04-13 09:59:03"
+        },
+        {
+            "id": 50,
+            "filename": "Antigravity_1775107350.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-17 15:56:58"
+        },
+        {
+            "id": 51,
+            "filename": "MongoDBCompass.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-17 15:57:02"
+        },
+        {
+            "id": 52,
+            "filename": "Antigravity.lnk",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-17 15:57:04"
+        },
+        {
+            "id": 53,
+            "filename": "report.pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-17 15:59:29"
+        },
+        {
+            "id": 54,
+            "filename": "conference.pdf",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "818176 bytes",
+            "threat_level": "medium",
+            "reason": "Document file",
+            "status": "blocked",
+            "timestamp": "2026-04-19 14:44:36"
+        },
+        {
+            "id": 55,
+            "filename": "ChatGPT Image Apr 18, 2026, 10_43_05 AM.png",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "1247411 bytes",
+            "threat_level": "low",
+            "reason": "Safe file (blocked by policy)",
+            "status": "blocked",
+            "timestamp": "2026-04-19 14:48:21"
+        },
+        {
+            "id": 56,
+            "filename": "info notepad.jpg",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 14:53:14"
+        },
+        {
+            "id": 57,
+            "filename": "block dig.txt",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 14:53:21"
+        },
+        {
+            "id": 58,
+            "filename": "hel.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "6 bytes",
+            "threat_level": "critical",
+            "reason": "Executable file",
+            "status": "blocked",
+            "timestamp": "2026-04-19 15:04:15"
+        },
+        {
+            "id": 59,
+            "filename": "safe_demo.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "350000 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 15:18:07"
+        },
+        {
+            "id": 60,
+            "filename": "unsafe_demo.pdf",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "150000 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-19 15:18:32"
+        },
+        {
+            "id": 61,
+            "filename": "subas.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 16:08:07"
+        },
+        {
+            "id": 62,
+            "filename": "test_alert_drop.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 16:10:13"
+        },
+        {
+            "id": 63,
+            "filename": "hel.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 16:11:26"
+        },
+        {
+            "id": 64,
+            "filename": "gooo.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 16:11:29"
+        },
+        {
+            "id": 65,
+            "filename": "ChatGPT Image Apr 17, 2026, 02_46_49 PM.png",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:14:57"
+        },
+        {
+            "id": 66,
+            "filename": "ChatGPT Image Apr 17, 2026, 03_23_15 PM.png",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:15:06"
+        },
+        {
+            "id": 67,
+            "filename": "ChatGPT Image Apr 17, 2026, 03_28_52 PM.png",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:15:15"
+        },
+        {
+            "id": 68,
+            "filename": "ChatGPT Image Apr 17, 2026, 03_40_46 PM.png",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:15:22"
+        },
+        {
+            "id": 69,
+            "filename": "ChatGPT Image Apr 17, 2026, 03_46_42 PM.png",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:15:29"
+        },
+        {
+            "id": 70,
+            "filename": "ChatGPT Image Apr 17, 2026, 09_16_56 PM.png",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:15:37"
+        },
+        {
+            "id": 71,
+            "filename": "ChatGPT Image Apr 18, 2026, 10_43_05 AM.png",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:15:45"
+        },
+        {
+            "id": 72,
+            "filename": "Claude Setup.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:15:52"
+        },
+        {
+            "id": 73,
+            "filename": "conference (1) (1).pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:16:00"
+        },
+        {
+            "id": 74,
+            "filename": "conference (1) (2).pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:16:08"
+        },
+        {
+            "id": 75,
+            "filename": "conference (1).pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:16:15"
+        },
+        {
+            "id": 76,
+            "filename": "conference.docx",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:16:23"
+        },
+        {
+            "id": 77,
+            "filename": "conference.pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:16:30"
+        },
+        {
+            "id": 78,
+            "filename": "EAadhaar_2726121850119820250701145348_0904202694238.pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:16:38"
+        },
+        {
+            "id": 79,
+            "filename": "Employee-Management-System (1).pptx",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:16:46"
+        },
+        {
+            "id": 80,
+            "filename": "feedback.zip",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:16:54"
+        },
+        {
+            "id": 81,
+            "filename": "files.zip",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:17:01"
+        },
+        {
+            "id": 82,
+            "filename": "G1154597065149216_07-02-2026_20-50-08.651_APPLICATION.pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:17:10"
+        },
+        {
+            "id": 83,
+            "filename": "GO Ms no 239.docx",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:17:17"
+        },
+        {
+            "id": 84,
+            "filename": "GO Ms no 239.pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:17:25"
+        },
+        {
+            "id": 85,
+            "filename": "login-bg.jpg.jpeg",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:17:33"
+        },
+        {
+            "id": 86,
+            "filename": "smart Detection Machine-finaldoc.docx",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "101139 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-19 18:55:31"
+        },
+        {
+            "id": 87,
+            "filename": "subashee.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:00:30"
+        },
+        {
+            "id": 88,
+            "filename": "slow_test.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:08:06"
+        },
+        {
+            "id": 89,
+            "filename": "subashee2.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:09:30"
+        },
+        {
+            "id": 90,
+            "filename": "hide.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:16:38"
+        },
+        {
+            "id": 91,
+            "filename": "Untitled1.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:23:34"
+        },
+        {
+            "id": 92,
+            "filename": "Untitled.exe",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:38:21"
+        },
+        {
+            "id": 93,
+            "filename": "report.docx",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "1098182 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:43:09"
+        },
+        {
+            "id": 94,
+            "filename": "smart Detection Machine-finaldoc.docx",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:45:20"
+        },
+        {
+            "id": 95,
+            "filename": "report.docx",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:45:27"
+        },
+        {
+            "id": 96,
+            "filename": "unsafe_demo.pdf",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:46:25"
+        },
+        {
+            "id": 97,
+            "filename": "Untitled.exe",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:48:47"
+        },
+        {
+            "id": 98,
+            "filename": "subashree R.docx",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "24903 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:50:08"
+        },
+        {
+            "id": 99,
+            "filename": "Screenshot (370).png",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "42100 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:55:07"
+        },
+        {
+            "id": 100,
+            "filename": "Screenshot (375).png",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "338672 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-19 19:58:32"
+        },
+        {
+            "id": 101,
+            "filename": "hide.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 20:20:01"
+        },
+        {
+            "id": 102,
+            "filename": "app.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 20:23:07"
+        },
+        {
+            "id": 103,
+            "filename": "err.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 20:24:13"
+        },
+        {
+            "id": 104,
+            "filename": "unemp.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 20:26:59"
+        },
+        {
+            "id": 105,
+            "filename": "err.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 20:30:31"
+        },
+        {
+            "id": 106,
+            "filename": "err.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "allowed",
+            "timestamp": "2026-04-19 20:36:25"
+        },
+        {
+            "id": 107,
+            "filename": "app.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 20:41:01"
+        },
+        {
+            "id": 108,
+            "filename": "err.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:19:37"
+        },
+        {
+            "id": 109,
+            "filename": "Untitled1.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:22:40"
+        },
+        {
+            "id": 110,
+            "filename": "vite.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:26:51"
+        },
+        {
+            "id": 111,
+            "filename": "test_virus.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:29:48"
+        },
+        {
+            "id": 112,
+            "filename": "simulated-malware.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:30:13"
+        },
+        {
+            "id": 113,
+            "filename": "unemp.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:31:59"
+        },
+        {
+            "id": 114,
+            "filename": "mock_virus.exe",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:33:34"
+        },
+        {
+            "id": 115,
+            "filename": "subashree R.docx",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "24903 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:38:58"
+        },
+        {
+            "id": 116,
+            "filename": "subashree R.docx",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:39:06"
+        },
+        {
+            "id": 117,
+            "filename": "WhatsApp Image 2026-03-19 at 12.18.42 PM.jpeg",
+            "sender": "system",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by monitor",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:39:46"
+        },
+        {
+            "id": 118,
+            "filename": "vite.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 21:47:28"
+        },
+        {
+            "id": 119,
+            "filename": "vite.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 22:49:13"
+        },
+        {
+            "id": 120,
+            "filename": "err.exe",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "blocked",
+            "timestamp": "2026-04-19 22:53:23"
+        },
+        {
+            "id": 121,
+            "filename": "cgh.pdf",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "929205 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-19 23:13:52"
+        },
+        {
+            "id": 122,
+            "filename": "hide.exe",
+            "sender": "subashreeraman@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "safe",
+            "timestamp": "2026-04-19 23:25:18"
+        },
+        {
+            "id": 123,
+            "filename": "vite.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "safe",
+            "timestamp": "2026-04-19 23:30:42"
+        },
+        {
+            "id": 124,
+            "filename": "Untitled1.exe",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "0 bytes",
+            "threat_level": "low",
+            "reason": "Safe code verified by AI content analysis",
+            "status": "safe",
+            "timestamp": "2026-04-19 23:36:06"
+        },
+        {
+            "id": 125,
+            "filename": "cgh.pdf",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "929205 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-20 00:14:47"
+        },
+        {
+            "id": 126,
+            "filename": "ele2.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Documents\\ele2.exe",
+            "timestamp": "2026-04-20 00:29:00"
+        },
+        {
+            "id": 127,
+            "filename": "sudha.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\OneDrive\\Attachments\\Documents\\sudha.exe",
+            "timestamp": "2026-04-20 00:29:32"
+        },
+        {
+            "id": 128,
+            "filename": "testfile.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Documents\\testfile.exe",
+            "timestamp": "2026-04-20 00:32:45"
+        },
+        {
+            "id": 129,
+            "filename": "testfile.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Documents\\testfile.exe",
+            "timestamp": "2026-04-20 00:32:45"
+        },
+        {
+            "id": 130,
+            "filename": "cgh.pdf",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "929205 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-20 00:35:53"
+        },
+        {
+            "id": 131,
+            "filename": "hhh.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\OneDrive\\Attachments\\Documents\\hhh.exe",
+            "timestamp": "2026-04-20 00:36:34"
+        },
+        {
+            "id": 132,
+            "filename": "ele2.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Downloads\\ele2.exe",
+            "timestamp": "2026-04-20 07:35:17"
+        },
+        {
+            "id": 133,
+            "filename": "vite.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Downloads\\vite.exe",
+            "timestamp": "2026-04-20 07:35:20"
+        },
+        {
+            "id": 134,
+            "filename": "ele.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Downloads\\ele.exe",
+            "timestamp": "2026-04-20 07:35:21"
+        },
+        {
+            "id": 135,
+            "filename": "hide.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Downloads\\hide.exe",
+            "timestamp": "2026-04-20 07:35:24"
+        },
+        {
+            "id": 136,
+            "filename": "unemp.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Downloads\\unemp.exe",
+            "timestamp": "2026-04-20 07:35:25"
+        },
+        {
+            "id": 137,
+            "filename": "err.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Downloads\\err.exe",
+            "timestamp": "2026-04-20 07:35:27"
+        },
+        {
+            "id": 138,
+            "filename": "Untitled1.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Downloads\\Untitled1.exe",
+            "timestamp": "2026-04-20 09:41:30"
+        },
+        {
+            "id": 139,
+            "filename": "cgh.pdf",
+            "sender": "subashreeraman57@gmail.com",
+            "size": "929205 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-20 09:41:37"
+        },
+        {
+            "id": 140,
+            "filename": "Screenshot (496).png",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by file monitor (critical threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\OneDrive\\Pictures\\Screenshots\\Screenshot (496).png",
+            "timestamp": "2026-04-20 11:35:40"
+        },
+        {
+            "id": 141,
+            "filename": "Screenshot (497).png",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by file monitor (critical threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\OneDrive\\Pictures\\Screenshots\\Screenshot (497).png",
+            "timestamp": "2026-04-20 11:37:44"
+        },
+        {
+            "id": 142,
+            "filename": "review 3 (1).pdf",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "725690 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-20 13:38:58"
+        },
+        {
+            "id": 143,
+            "filename": "devvv.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Downloads\\devvv.exe",
+            "timestamp": "2026-04-20 13:40:23"
+        },
+        {
+            "id": 144,
+            "filename": "cgh.pdf",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "929205 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-20 13:51:21"
+        },
+        {
+            "id": 145,
+            "filename": "subashree R.docx",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "24903 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-20 13:52:21"
+        },
+        {
+            "id": 146,
+            "filename": "review 3.pdf",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "725691 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-20 13:53:28"
+        },
+        {
+            "id": 147,
+            "filename": "dow.exe",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "high",
+            "reason": "Detected by file monitor (high threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Downloads\\dow.exe",
+            "timestamp": "2026-04-20 14:19:08"
+        },
+        {
+            "id": 148,
+            "filename": "review 3.pdf",
+            "sender": "",
+            "size": "725691 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-20 14:31:38"
+        },
+        {
+            "id": 149,
+            "filename": "SecureFileGuard.zip",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by file monitor (critical threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\OneDrive\\Desktop\\SecureFileGuard.zip",
+            "timestamp": "2026-04-20 14:41:52"
+        },
+        {
+            "id": 150,
+            "filename": "Screenshot 2026-04-20 145058.png",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by file monitor (critical threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\OneDrive\\Pictures\\Screenshots\\Screenshot 2026-04-20 145058.png",
+            "timestamp": "2026-04-20 14:51:00"
+        },
+        {
+            "id": 151,
+            "filename": "review 3 (1).pdf",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "725690 bytes",
+            "threat_level": "medium",
+            "reason": "Document file (Fallback Ext Rule)",
+            "status": "quarantined",
+            "timestamp": "2026-04-20 15:03:44"
+        },
+        {
+            "id": 152,
+            "filename": "client.mjs",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "low",
+            "reason": "Detected by file monitor (low threat)",
+            "status": "safe",
+            "path": "C:\\Users\\admin\\OneDrive\\Desktop\\SecureFileGuard\\SecureFileGuard\\frontend\\securefileguard-frontend\\node_modules\\vite\\dist\\client\\client.mjs",
+            "timestamp": "2026-04-27 14:47:00"
+        },
+        {
+            "id": 153,
+            "filename": "env.mjs",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "low",
+            "reason": "Detected by file monitor (low threat)",
+            "status": "safe",
+            "path": "C:\\Users\\admin\\OneDrive\\Desktop\\SecureFileGuard\\SecureFileGuard\\frontend\\securefileguard-frontend\\node_modules\\vite\\dist\\client\\env.mjs",
+            "timestamp": "2026-04-27 14:47:00"
+        },
+        {
+            "id": 154,
+            "filename": "review 3 (2).pdf",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by file monitor (critical threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\Downloads\\review 3 (2).pdf",
+            "timestamp": "2026-04-27 14:48:03"
+        },
+        {
+            "id": 155,
+            "filename": "Screenshot 2026-04-27 144821.png",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by file monitor (critical threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\OneDrive\\Pictures\\Screenshots\\Screenshot 2026-04-27 144821.png",
+            "timestamp": "2026-04-27 14:48:22"
+        },
+        {
+            "id": 156,
+            "filename": "Screenshot (498).png",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by file monitor (critical threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\OneDrive\\Pictures\\Screenshots\\Screenshot (498).png",
+            "timestamp": "2026-04-27 14:48:32"
+        },
+        {
+            "id": 157,
+            "filename": "Screenshot 2026-04-27 144835.png",
+            "sender": "File Monitor",
+            "size": "Unknown",
+            "threat_level": "critical",
+            "reason": "Detected by file monitor (critical threat)",
+            "status": "blocked",
+            "path": "C:\\Users\\admin\\OneDrive\\Pictures\\Screenshots\\Screenshot 2026-04-27 144835.png",
+            "timestamp": "2026-04-27 14:48:36"
+        },
+        {
+            "id": 158,
+            "filename": "cgh.pdf",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "929205 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-27 14:52:07"
+        },
+        {
+            "id": 159,
+            "filename": "intern report (1).pdf",
+            "sender": "subashreeraman2005@gmail.com",
+            "size": "929271 bytes",
+            "threat_level": "critical",
+            "reason": "Malicious content detected by AI (XGBoost)",
+            "status": "blocked",
+            "timestamp": "2026-04-27 14:52:32"
+        }
+    ],
+    "alerts": [
+        {
+            "message": "\ud83d\udea8 External threat: \\Users\\admin\\Downloads\\grt.exe",
+            "time": "12:32:18"
+        },
+        {
+            "message": "\ud83d\udea8 External threat: \\Users\\admin\\Downloads\\dog.exe",
+            "time": "12:54:10"
+        },
+        {
+            "message": "\ud83d\udea8 External Threat: \\Users\\admin\\Downloads\\wee.exe",
+            "time": "09:47:26"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: subashree R.pdf",
+            "time": "09:50:30"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: subashree R.pdf",
+            "time": "09:50:32"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: 03 - Unakaga.mp3",
+            "time": "09:53:06"
+        },
+        {
+            "message": "\ud83d\udea8 External Threat: \\Users\\admin\\Downloads\\CursorUserSetup-x64-2.6.20 (1).exe",
+            "time": "09:37:40"
+        },
+        {
+            "message": "\ud83d\udea8 External Threat: \\Users\\admin\\Downloads\\CursorUserSetup-x64-2.6.20.exe",
+            "time": "09:37:45"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: Batch 8 - report.pdf",
+            "time": "09:37:45"
+        },
+        {
+            "message": "\ud83d\udea8 External Threat: \\Users\\admin\\Downloads\\mongodb-windows-x86_64-8.2.5-signed.msi",
+            "time": "09:37:49"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: tcni.pdf",
+            "time": "09:57:03"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: WhatsApp Image 2026-03-19 at 12.18.42 PM.jpeg",
+            "time": "09:57:36"
+        },
+        {
+            "message": "\ud83d\udea8 External Threat: \\Users\\admin\\Downloads\\script.vbs",
+            "time": "11:59:51"
+        },
+        {
+            "message": "\ud83d\udea8 External Threat: \\Users\\admin\\Downloads\\virus.exe",
+            "time": "12:01:19"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: hidden.rar",
+            "time": "12:13:00"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: info pdf-1-8-3.pdf",
+            "time": "10:17:21"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: Untitled.mp4",
+            "time": "10:27:38"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: \\Users\\admin\\Downloads\\use.exe",
+            "time": "11:16:32"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Antigravity (1).exe",
+            "time": "10:52:28"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Antigravity.exe",
+            "time": "10:52:30"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: esbuild.exe",
+            "time": "10:52:32"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: esbuild.exe",
+            "time": "10:52:36"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: esbuild.exe",
+            "time": "10:52:38"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: esbuild.exe",
+            "time": "10:52:40"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: esbuild.exe",
+            "time": "10:52:41"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: esbuild.exe",
+            "time": "10:52:43"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: esbuild.exe",
+            "time": "10:52:45"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: esbuild.exe",
+            "time": "10:52:47"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: esbuild.exe",
+            "time": "10:52:49"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: ibm certificate AI.pdf",
+            "time": "10:58:25"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: desktop.ini",
+            "time": "11:41:31"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: desktop.ini",
+            "time": "11:41:33"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Your Chrome - Chrome.lnk",
+            "time": "11:41:59"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Comet.lnk",
+            "time": "11:42:01"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Antigravity.lnk",
+            "time": "11:42:03"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Visual Studio Code.lnk",
+            "time": "11:42:05"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: MongoDBCompass.lnk",
+            "time": "11:42:07"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Employee-Management-System.pptx",
+            "time": "10:37:22"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: MongoDBCompass.lnk",
+            "time": "11:50:39"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Visual Studio Code.lnk",
+            "time": "11:50:42"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Your Chrome - Chrome.lnk",
+            "time": "11:50:45"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Comet.lnk",
+            "time": "11:50:48"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Antigravity.lnk",
+            "time": "11:50:51"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Antigravity.lnk",
+            "time": "10:54:24"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: subashree R.pdf",
+            "time": "09:29:02"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: login-bg.jpg.jpeg",
+            "time": "09:46:35"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: Employee-Management-System (1).pptx",
+            "time": "09:57:48"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: package.json",
+            "time": "09:58:27"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: subashree R.pdf",
+            "time": "09:59:03"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Antigravity_1775107350.exe",
+            "time": "15:56:58"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: MongoDBCompass.lnk",
+            "time": "15:57:02"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Antigravity.lnk",
+            "time": "15:57:04"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: report.pdf",
+            "time": "15:59:29"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: conference.pdf",
+            "time": "14:44:36"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: ChatGPT Image Apr 18, 2026, 10_43_05 AM.png",
+            "time": "14:48:21"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: info notepad.jpg",
+            "time": "14:53:14"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: block dig.txt",
+            "time": "14:53:21"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: hel.exe",
+            "time": "15:04:15"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: safe_demo.exe",
+            "time": "15:18:07"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: unsafe_demo.pdf",
+            "time": "15:18:32"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: subas.exe",
+            "time": "16:08:07"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: test_alert_drop.exe",
+            "time": "16:10:13"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: hel.exe",
+            "time": "16:11:26"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: gooo.exe",
+            "time": "16:11:29"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: ChatGPT Image Apr 17, 2026, 02_46_49 PM.png",
+            "time": "18:14:57"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: ChatGPT Image Apr 17, 2026, 03_23_15 PM.png",
+            "time": "18:15:06"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: ChatGPT Image Apr 17, 2026, 03_28_52 PM.png",
+            "time": "18:15:15"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: ChatGPT Image Apr 17, 2026, 03_40_46 PM.png",
+            "time": "18:15:22"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: ChatGPT Image Apr 17, 2026, 03_46_42 PM.png",
+            "time": "18:15:29"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: ChatGPT Image Apr 17, 2026, 09_16_56 PM.png",
+            "time": "18:15:37"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: ChatGPT Image Apr 18, 2026, 10_43_05 AM.png",
+            "time": "18:15:45"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Claude Setup.exe",
+            "time": "18:15:52"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: conference (1) (1).pdf",
+            "time": "18:16:00"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: conference (1) (2).pdf",
+            "time": "18:16:08"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: conference (1).pdf",
+            "time": "18:16:15"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: conference.docx",
+            "time": "18:16:23"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: conference.pdf",
+            "time": "18:16:30"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: EAadhaar_2726121850119820250701145348_0904202694238.pdf",
+            "time": "18:16:38"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: Employee-Management-System (1).pptx",
+            "time": "18:16:46"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: feedback.zip",
+            "time": "18:16:54"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: files.zip",
+            "time": "18:17:01"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: G1154597065149216_07-02-2026_20-50-08.651_APPLICATION.pdf",
+            "time": "18:17:10"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: GO Ms no 239.docx",
+            "time": "18:17:17"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: GO Ms no 239.pdf",
+            "time": "18:17:25"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: login-bg.jpg.jpeg",
+            "time": "18:17:33"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: smart Detection Machine-finaldoc.docx",
+            "time": "18:55:31"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: subashee.exe",
+            "time": "19:00:30"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: slow_test.exe",
+            "time": "19:08:06"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: subashee2.exe",
+            "time": "19:09:30"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: hide.exe",
+            "time": "19:16:38"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: Untitled1.exe",
+            "time": "19:23:34"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: Untitled.exe",
+            "time": "19:38:21"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: report.docx",
+            "time": "19:43:09"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: smart Detection Machine-finaldoc.docx",
+            "time": "19:45:20"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: report.docx",
+            "time": "19:45:27"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: unsafe_demo.pdf",
+            "time": "19:46:25"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: Untitled.exe",
+            "time": "19:48:47"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: subashree R.docx",
+            "time": "19:50:08"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: Screenshot (370).png",
+            "time": "19:55:07"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: Screenshot (375).png",
+            "time": "19:58:32"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: hide.exe",
+            "time": "20:20:01"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: app.exe",
+            "time": "20:23:07"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: err.exe",
+            "time": "20:24:13"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: unemp.exe",
+            "time": "20:26:59"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: err.exe",
+            "time": "20:30:31"
+        },
+        {
+            "message": "\u2705 Safe Upload: err.exe",
+            "time": "20:36:25"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: app.exe",
+            "time": "20:41:01"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: err.exe",
+            "time": "21:19:37"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: Untitled1.exe",
+            "time": "21:22:40"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: vite.exe",
+            "time": "21:26:51"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: test_virus.exe",
+            "time": "21:29:48"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: simulated-malware.exe",
+            "time": "21:30:13"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: unemp.exe",
+            "time": "21:31:59"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: mock_virus.exe",
+            "time": "21:33:34"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: subashree R.docx",
+            "time": "21:38:58"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: subashree R.docx",
+            "time": "21:39:06"
+        },
+        {
+            "message": "\ud83d\udea8 Threat: WhatsApp Image 2026-03-19 at 12.18.42 PM.jpeg",
+            "time": "21:39:46"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: vite.exe",
+            "time": "21:47:28"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: vite.exe",
+            "time": "22:49:13"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: err.exe",
+            "time": "22:53:23"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: cgh.pdf",
+            "time": "23:13:52"
+        },
+        {
+            "message": "\u2705 Safe File Allowed: hide.exe",
+            "time": "23:25:18"
+        },
+        {
+            "message": "\u2705 Safe File Allowed: vite.exe",
+            "time": "23:30:42"
+        },
+        {
+            "message": "\u2705 Safe File Allowed: Untitled1.exe",
+            "time": "23:36:06"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: cgh.pdf",
+            "time": "00:14:47"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): ele2.exe",
+            "time": "00:29:00"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): sudha.exe",
+            "time": "00:29:32"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): testfile.exe",
+            "time": "00:32:45"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): testfile.exe",
+            "time": "00:32:45"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: cgh.pdf",
+            "time": "00:35:53"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): hhh.exe",
+            "time": "00:36:34"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): ele2.exe",
+            "time": "07:35:17"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): vite.exe",
+            "time": "07:35:20"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): ele.exe",
+            "time": "07:35:21"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): hide.exe",
+            "time": "07:35:24"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): unemp.exe",
+            "time": "07:35:25"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): err.exe",
+            "time": "07:35:27"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): Untitled1.exe",
+            "time": "09:41:30"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: cgh.pdf",
+            "time": "09:41:37"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (CRITICAL): Screenshot (496).png",
+            "time": "11:35:40"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (CRITICAL): Screenshot (497).png",
+            "time": "11:37:44"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: review 3 (1).pdf",
+            "time": "13:38:58"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): devvv.exe",
+            "time": "13:40:23"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: cgh.pdf",
+            "time": "13:51:21"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: subashree R.docx",
+            "time": "13:52:21"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: review 3.pdf",
+            "time": "13:53:28"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (HIGH): dow.exe",
+            "time": "14:19:08"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: review 3.pdf",
+            "time": "14:31:38"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (CRITICAL): SecureFileGuard.zip",
+            "time": "14:41:52"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (CRITICAL): Screenshot 2026-04-20 145058.png",
+            "time": "14:51:00"
+        },
+        {
+            "message": "\u2705 Safe File Allowed: review 3 (1).pdf",
+            "time": "15:03:44"
+        },
+        {
+            "message": "\u2705 Safe File Allowed: client.mjs",
+            "time": "14:47:00"
+        },
+        {
+            "message": "\u2705 Safe File Allowed: env.mjs",
+            "time": "14:47:00"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (CRITICAL): review 3 (2).pdf",
+            "time": "14:48:03"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (CRITICAL): Screenshot 2026-04-27 144821.png",
+            "time": "14:48:22"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (CRITICAL): Screenshot (498).png",
+            "time": "14:48:32"
+        },
+        {
+            "message": "\ud83d\udea8 Threat Detected (CRITICAL): Screenshot 2026-04-27 144835.png",
+            "time": "14:48:36"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: cgh.pdf",
+            "time": "14:52:07"
+        },
+        {
+            "message": "\ud83d\udea8 File Blocked: intern report (1).pdf",
+            "time": "14:52:32"
+        }
+    ],
+    "reports": [
+        {
+            "file": "info pdf-1-8-3.pdf",
+            "threat": "medium",
+            "status": "blocked",
+            "time": "2026-03-25 10:17:21"
+        },
+        {
+            "file": "Untitled.mp4",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-03-25 10:27:38"
+        },
+        {
+            "file": "\\Users\\admin\\Downloads\\use.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-03-25 11:16:32"
+        },
+        {
+            "file": "Antigravity (1).exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:28"
+        },
+        {
+            "file": "Antigravity.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:30"
+        },
+        {
+            "file": "esbuild.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:32"
+        },
+        {
+            "file": "esbuild.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:36"
+        },
+        {
+            "file": "esbuild.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:38"
+        },
+        {
+            "file": "esbuild.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:40"
+        },
+        {
+            "file": "esbuild.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:41"
+        },
+        {
+            "file": "esbuild.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:43"
+        },
+        {
+            "file": "esbuild.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:45"
+        },
+        {
+            "file": "esbuild.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:47"
+        },
+        {
+            "file": "esbuild.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:52:49"
+        },
+        {
+            "file": "ibm certificate AI.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 10:58:25"
+        },
+        {
+            "file": "desktop.ini",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 11:41:31"
+        },
+        {
+            "file": "desktop.ini",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 11:41:33"
+        },
+        {
+            "file": "Your Chrome - Chrome.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 11:41:59"
+        },
+        {
+            "file": "Comet.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 11:42:01"
+        },
+        {
+            "file": "Antigravity.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 11:42:03"
+        },
+        {
+            "file": "Visual Studio Code.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 11:42:05"
+        },
+        {
+            "file": "MongoDBCompass.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-02 11:42:07"
+        },
+        {
+            "file": "Employee-Management-System.pptx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-06 10:37:22"
+        },
+        {
+            "file": "MongoDBCompass.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-06 11:50:39"
+        },
+        {
+            "file": "Visual Studio Code.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-06 11:50:42"
+        },
+        {
+            "file": "Your Chrome - Chrome.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-06 11:50:45"
+        },
+        {
+            "file": "Comet.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-06 11:50:48"
+        },
+        {
+            "file": "Antigravity.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-06 11:50:51"
+        },
+        {
+            "file": "Antigravity.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-08 10:54:24"
+        },
+        {
+            "file": "subashree R.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-13 09:29:02"
+        },
+        {
+            "file": "login-bg.jpg.jpeg",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-13 09:46:35"
+        },
+        {
+            "file": "Employee-Management-System (1).pptx",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-13 09:57:48"
+        },
+        {
+            "file": "package.json",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-13 09:58:27"
+        },
+        {
+            "file": "subashree R.pdf",
+            "threat": "medium",
+            "status": "blocked",
+            "time": "2026-04-13 09:59:03"
+        },
+        {
+            "file": "Antigravity_1775107350.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-17 15:56:58"
+        },
+        {
+            "file": "MongoDBCompass.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-17 15:57:02"
+        },
+        {
+            "file": "Antigravity.lnk",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-17 15:57:04"
+        },
+        {
+            "file": "report.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-17 15:59:29"
+        },
+        {
+            "file": "conference.pdf",
+            "threat": "medium",
+            "status": "blocked",
+            "time": "2026-04-19 14:44:36"
+        },
+        {
+            "file": "ChatGPT Image Apr 18, 2026, 10_43_05 AM.png",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 14:48:21"
+        },
+        {
+            "file": "info notepad.jpg",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 14:53:14"
+        },
+        {
+            "file": "block dig.txt",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 14:53:21"
+        },
+        {
+            "file": "hel.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 15:04:15"
+        },
+        {
+            "file": "safe_demo.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 15:18:07"
+        },
+        {
+            "file": "unsafe_demo.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 15:18:32"
+        },
+        {
+            "file": "subas.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 16:08:07"
+        },
+        {
+            "file": "test_alert_drop.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 16:10:13"
+        },
+        {
+            "file": "hel.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 16:11:26"
+        },
+        {
+            "file": "gooo.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 16:11:29"
+        },
+        {
+            "file": "ChatGPT Image Apr 17, 2026, 02_46_49 PM.png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:14:57"
+        },
+        {
+            "file": "ChatGPT Image Apr 17, 2026, 03_23_15 PM.png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:15:06"
+        },
+        {
+            "file": "ChatGPT Image Apr 17, 2026, 03_28_52 PM.png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:15:15"
+        },
+        {
+            "file": "ChatGPT Image Apr 17, 2026, 03_40_46 PM.png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:15:22"
+        },
+        {
+            "file": "ChatGPT Image Apr 17, 2026, 03_46_42 PM.png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:15:29"
+        },
+        {
+            "file": "ChatGPT Image Apr 17, 2026, 09_16_56 PM.png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:15:37"
+        },
+        {
+            "file": "ChatGPT Image Apr 18, 2026, 10_43_05 AM.png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:15:45"
+        },
+        {
+            "file": "Claude Setup.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:15:52"
+        },
+        {
+            "file": "conference (1) (1).pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:16:00"
+        },
+        {
+            "file": "conference (1) (2).pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:16:08"
+        },
+        {
+            "file": "conference (1).pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:16:15"
+        },
+        {
+            "file": "conference.docx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:16:23"
+        },
+        {
+            "file": "conference.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:16:30"
+        },
+        {
+            "file": "EAadhaar_2726121850119820250701145348_0904202694238.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:16:38"
+        },
+        {
+            "file": "Employee-Management-System (1).pptx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:16:46"
+        },
+        {
+            "file": "feedback.zip",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:16:54"
+        },
+        {
+            "file": "files.zip",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:17:01"
+        },
+        {
+            "file": "G1154597065149216_07-02-2026_20-50-08.651_APPLICATION.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:17:10"
+        },
+        {
+            "file": "GO Ms no 239.docx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:17:17"
+        },
+        {
+            "file": "GO Ms no 239.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:17:25"
+        },
+        {
+            "file": "login-bg.jpg.jpeg",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:17:33"
+        },
+        {
+            "file": "smart Detection Machine-finaldoc.docx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 18:55:31"
+        },
+        {
+            "file": "subashee.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 19:00:30"
+        },
+        {
+            "file": "slow_test.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 19:08:06"
+        },
+        {
+            "file": "subashee2.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 19:09:30"
+        },
+        {
+            "file": "hide.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 19:16:38"
+        },
+        {
+            "file": "Untitled1.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 19:23:34"
+        },
+        {
+            "file": "Untitled.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 19:38:21"
+        },
+        {
+            "file": "report.docx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 19:43:09"
+        },
+        {
+            "file": "smart Detection Machine-finaldoc.docx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 19:45:20"
+        },
+        {
+            "file": "report.docx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 19:45:27"
+        },
+        {
+            "file": "unsafe_demo.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 19:46:25"
+        },
+        {
+            "file": "Untitled.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 19:48:47"
+        },
+        {
+            "file": "subashree R.docx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 19:50:08"
+        },
+        {
+            "file": "Screenshot (370).png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 19:55:07"
+        },
+        {
+            "file": "Screenshot (375).png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 19:58:32"
+        },
+        {
+            "file": "hide.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 20:20:01"
+        },
+        {
+            "file": "app.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 20:23:07"
+        },
+        {
+            "file": "err.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 20:24:13"
+        },
+        {
+            "file": "unemp.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 20:26:59"
+        },
+        {
+            "file": "err.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 20:30:31"
+        },
+        {
+            "file": "err.exe",
+            "threat": "low",
+            "status": "allowed",
+            "time": "2026-04-19 20:36:25"
+        },
+        {
+            "file": "app.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 20:41:01"
+        },
+        {
+            "file": "err.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 21:19:37"
+        },
+        {
+            "file": "Untitled1.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 21:22:40"
+        },
+        {
+            "file": "vite.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 21:26:51"
+        },
+        {
+            "file": "test_virus.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 21:29:48"
+        },
+        {
+            "file": "simulated-malware.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 21:30:13"
+        },
+        {
+            "file": "unemp.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 21:31:59"
+        },
+        {
+            "file": "mock_virus.exe",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 21:33:34"
+        },
+        {
+            "file": "subashree R.docx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 21:38:58"
+        },
+        {
+            "file": "subashree R.docx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 21:39:06"
+        },
+        {
+            "file": "WhatsApp Image 2026-03-19 at 12.18.42 PM.jpeg",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 21:39:46"
+        },
+        {
+            "file": "vite.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 21:47:28"
+        },
+        {
+            "file": "vite.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 22:49:13"
+        },
+        {
+            "file": "err.exe",
+            "threat": "low",
+            "status": "blocked",
+            "time": "2026-04-19 22:53:23"
+        },
+        {
+            "file": "cgh.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-19 23:13:52"
+        },
+        {
+            "file": "hide.exe",
+            "threat": "low",
+            "status": "safe",
+            "time": "2026-04-19 23:25:18"
+        },
+        {
+            "file": "vite.exe",
+            "threat": "low",
+            "status": "safe",
+            "time": "2026-04-19 23:30:42"
+        },
+        {
+            "file": "Untitled1.exe",
+            "threat": "low",
+            "status": "safe",
+            "time": "2026-04-19 23:36:06"
+        },
+        {
+            "file": "cgh.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 00:14:47"
+        },
+        {
+            "file": "ele2.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 00:29:00"
+        },
+        {
+            "file": "sudha.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 00:29:32"
+        },
+        {
+            "file": "testfile.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 00:32:45"
+        },
+        {
+            "file": "testfile.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 00:32:45"
+        },
+        {
+            "file": "cgh.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 00:35:53"
+        },
+        {
+            "file": "hhh.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 00:36:34"
+        },
+        {
+            "file": "ele2.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 07:35:17"
+        },
+        {
+            "file": "vite.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 07:35:20"
+        },
+        {
+            "file": "ele.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 07:35:21"
+        },
+        {
+            "file": "hide.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 07:35:24"
+        },
+        {
+            "file": "unemp.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 07:35:25"
+        },
+        {
+            "file": "err.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 07:35:27"
+        },
+        {
+            "file": "Untitled1.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 09:41:30"
+        },
+        {
+            "file": "cgh.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 09:41:37"
+        },
+        {
+            "file": "Screenshot (496).png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 11:35:40"
+        },
+        {
+            "file": "Screenshot (497).png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 11:37:44"
+        },
+        {
+            "file": "review 3 (1).pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 13:38:58"
+        },
+        {
+            "file": "devvv.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 13:40:23"
+        },
+        {
+            "file": "cgh.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 13:51:21"
+        },
+        {
+            "file": "subashree R.docx",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 13:52:21"
+        },
+        {
+            "file": "review 3.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 13:53:28"
+        },
+        {
+            "file": "dow.exe",
+            "threat": "high",
+            "status": "blocked",
+            "time": "2026-04-20 14:19:08"
+        },
+        {
+            "file": "review 3.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 14:31:38"
+        },
+        {
+            "file": "SecureFileGuard.zip",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 14:41:52"
+        },
+        {
+            "file": "Screenshot 2026-04-20 145058.png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-20 14:51:00"
+        },
+        {
+            "file": "review 3 (1).pdf",
+            "threat": "medium",
+            "status": "quarantined",
+            "time": "2026-04-20 15:03:44"
+        },
+        {
+            "file": "client.mjs",
+            "threat": "low",
+            "status": "safe",
+            "time": "2026-04-27 14:47:00"
+        },
+        {
+            "file": "env.mjs",
+            "threat": "low",
+            "status": "safe",
+            "time": "2026-04-27 14:47:00"
+        },
+        {
+            "file": "review 3 (2).pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-27 14:48:03"
+        },
+        {
+            "file": "Screenshot 2026-04-27 144821.png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-27 14:48:22"
+        },
+        {
+            "file": "Screenshot (498).png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-27 14:48:32"
+        },
+        {
+            "file": "Screenshot 2026-04-27 144835.png",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-27 14:48:36"
+        },
+        {
+            "file": "cgh.pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-27 14:52:07"
+        },
+        {
+            "file": "intern report (1).pdf",
+            "threat": "critical",
+            "status": "blocked",
+            "time": "2026-04-27 14:52:32"
+        }
+    ]
+}

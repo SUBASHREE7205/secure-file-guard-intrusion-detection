@@ -1,0 +1,380 @@
+[2026-02-10 18:12:35] SYSTEM: SecureFileGuard started
+[2026-02-10 18:12:35] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-10 18:12:35] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-10 18:14:32] INFO: New file detected -> C:\Users\admin\SecureWatch\wrld.exe
+[2026-02-10 18:14:32] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\wrld.exe
+[2026-02-10 18:14:33] BLOCKED: Unsafe file quarantined -> C:\Users\admin\Quarantine\wrld.exe
+[2026-02-10 19:39:25] SYSTEM: Monitoring stopped
+[2026-02-10 19:47:32] SYSTEM: SecureFileGuard started
+[2026-02-10 19:47:32] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-10 19:47:32] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-10 19:48:17] INFO: New file detected -> C:\Users\admin\SecureWatch\suba.exe
+[2026-02-10 19:48:17] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\suba.exe
+[2026-02-10 19:48:17] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\suba.exe
+[2026-02-10 19:48:17] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\suba.exe
+[2026-02-10 20:21:37] SYSTEM: Monitoring stopped
+[2026-02-10 20:21:48] SYSTEM: SecureFileGuard started
+[2026-02-10 20:21:48] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-10 20:21:48] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-10 20:27:59] INFO: New file detected -> C:\Users\admin\SecureWatch\eicar_test.txt
+[2026-02-10 20:27:59] INFO: Detected extension -> .txt | File -> C:\Users\admin\SecureWatch\eicar_test.txt
+[2026-02-10 20:27:59] SAFE: File allowed -> C:\Users\admin\SecureWatch\eicar_test.txt
+[2026-02-10 20:30:24] SYSTEM: Monitoring stopped
+[2026-02-10 20:30:35] SYSTEM: SecureFileGuard started
+[2026-02-10 20:30:35] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-10 20:30:35] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-10 20:31:38] INFO: New file detected -> C:\Users\admin\SecureWatch\test1.txt
+[2026-02-10 20:31:38] INFO: Detected extension -> .txt | File -> C:\Users\admin\SecureWatch\test1.txt
+[2026-02-10 20:31:38] SAFE: File allowed -> C:\Users\admin\SecureWatch\test1.txt
+[2026-02-10 20:34:08] INFO: New file detected -> C:\Users\admin\SecureWatch\eicar_test.exe
+[2026-02-10 20:34:08] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\eicar_test.exe
+[2026-02-10 20:34:09] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\eicar_test.exe
+[2026-02-10 20:34:09] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\eicar_test.exe
+[2026-02-10 20:41:52] INFO: New file detected -> C:\Users\admin\SecureWatch\malicious_test.exe
+[2026-02-10 20:41:52] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\malicious_test.exe
+[2026-02-10 20:41:52] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\malicious_test.exe
+[2026-02-10 20:41:53] BLOCKED: Unsafe file quarantined -> C:\Users\admin\Quarantine\malicious_test.exe
+[2026-02-12 10:07:56] SYSTEM: SecureFileGuard started
+[2026-02-12 10:07:56] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-12 10:07:56] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-12 10:11:36] INFO: New file detected -> C:\Users\admin\SecureWatch\test2.txt
+[2026-02-12 10:11:36] INFO: Detected extension -> .txt | File -> C:\Users\admin\SecureWatch\test2.txt
+[2026-02-12 10:11:36] SAFE: File allowed -> C:\Users\admin\SecureWatch\test2.txt
+[2026-02-12 10:12:49] INFO: New file detected -> C:\Users\admin\SecureWatch\test2.exe
+[2026-02-12 10:12:49] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\test2.exe
+[2026-02-12 10:12:49] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\test2.exe
+[2026-02-12 10:12:49] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\test2.exe
+[2026-02-12 10:16:19] SYSTEM: Monitoring stopped
+[2026-02-12 10:16:57] SYSTEM: SecureFileGuard started
+[2026-02-12 10:16:57] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-12 10:16:57] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-12 10:17:21] INFO: New file detected -> C:\Users\admin\SecureWatch\test3.exe
+[2026-02-12 10:17:21] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\test3.exe
+[2026-02-12 10:17:21] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\test3.exe
+[2026-02-12 10:17:21] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\test3.exe
+[2026-02-12 10:19:30] INFO: New file detected -> C:\Users\admin\SecureWatch\invoice_update.txt
+[2026-02-12 10:19:30] INFO: Detected extension -> .txt | File -> C:\Users\admin\SecureWatch\invoice_update.txt
+[2026-02-12 10:19:30] SAFE: File allowed -> C:\Users\admin\SecureWatch\invoice_update.txt
+[2026-02-12 10:20:12] INFO: New file detected -> C:\Users\admin\SecureWatch\invoice_update.exe
+[2026-02-12 10:20:12] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\invoice_update.exe
+[2026-02-12 10:20:12] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\invoice_update.exe
+[2026-02-12 10:20:12] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\invoice_update.exe
+[2026-02-12 10:27:09] SYSTEM: Monitoring stopped
+[2026-02-12 10:27:18] SYSTEM: SecureFileGuard started
+[2026-02-12 10:27:18] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-12 10:27:18] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-12 10:28:04] INFO: New file detected -> C:\Users\admin\SecureWatch\salary_report_2024.exe
+[2026-02-12 10:28:04] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\salary_report_2024.exe
+[2026-02-12 10:28:04] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\salary_report_2024.exe
+[2026-02-12 10:28:04] INFO: ML Malicious Probability -> 0.5274612903594971 | File -> C:\Users\admin\SecureWatch\salary_report_2024.exe
+[2026-02-12 10:28:04] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\salary_report_2024.exe
+[2026-02-12 10:28:05] BLOCKED: Unsafe file quarantined -> C:\Users\admin\Quarantine\salary_report_2024.exe
+[2026-02-12 10:45:29] SYSTEM: SecureFileGuard started
+[2026-02-12 10:45:29] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-12 10:45:29] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-12 10:46:08] INFO: New file detected -> C:\Users\admin\SecureWatch\hell.exe
+[2026-02-12 10:46:08] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\hell.exe
+[2026-02-12 10:46:08] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\hell.exe
+[2026-02-12 10:46:08] INFO: ML Malicious Probability -> 0.23054873943328857 | File -> C:\Users\admin\SecureWatch\hell.exe
+[2026-02-12 10:46:08] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\hell.exe
+[2026-02-12 10:46:09] BLOCKED: Unsafe file quarantined -> C:\Users\admin\Quarantine\hell.exe
+[2026-02-13 09:31:41] SYSTEM: SecureFileGuard started
+[2026-02-13 09:31:41] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-13 09:31:41] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-13 09:32:26] INFO: New file detected -> C:\Users\admin\SecureWatch\team3.txt
+[2026-02-13 09:32:26] INFO: Detected extension -> .txt | File -> C:\Users\admin\SecureWatch\team3.txt
+[2026-02-13 09:32:26] SAFE: File allowed -> C:\Users\admin\SecureWatch\team3.txt
+[2026-02-13 09:33:08] INFO: New file detected -> C:\Users\admin\SecureWatch\team.exe
+[2026-02-13 09:33:08] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\team.exe
+[2026-02-13 09:33:08] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\team.exe
+[2026-02-13 09:33:08] INFO: ML Malicious Probability -> 0.4688265323638916 | File -> C:\Users\admin\SecureWatch\team.exe
+[2026-02-13 09:33:08] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\team.exe
+[2026-02-13 09:33:09] BLOCKED: Unsafe file quarantined -> C:\Users\admin\Quarantine\team.exe
+[2026-02-14 10:20:31] SYSTEM: SecureFileGuard started
+[2026-02-14 10:20:31] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-14 10:20:31] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-14 10:22:22] INFO: New file detected -> C:\Users\admin\SecureWatch\hel.txt
+[2026-02-14 10:22:22] INFO: Detected extension -> .txt | File -> C:\Users\admin\SecureWatch\hel.txt
+[2026-02-14 10:22:22] SAFE: File allowed -> C:\Users\admin\SecureWatch\hel.txt
+[2026-02-14 10:24:43] INFO: New file detected -> C:\Users\admin\SecureWatch\hel1.exe
+[2026-02-14 10:24:43] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\hel1.exe
+[2026-02-14 10:24:43] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\hel1.exe
+[2026-02-14 10:24:43] INFO: ML Malicious Probability -> 0.12869161367416382 | File -> C:\Users\admin\SecureWatch\hel1.exe
+[2026-02-14 10:24:43] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\hel1.exe
+[2026-02-14 10:25:20] INFO: New file detected -> C:\Users\admin\SecureWatch\hel1.cmd
+[2026-02-14 10:25:20] INFO: Detected extension -> .cmd | File -> C:\Users\admin\SecureWatch\hel1.cmd
+[2026-02-14 10:25:20] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\hel1.cmd
+[2026-02-14 10:25:20] INFO: ML Malicious Probability -> 0.07519272714853287 | File -> C:\Users\admin\SecureWatch\hel1.cmd
+[2026-02-14 10:25:20] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\hel1.cmd
+[2026-02-14 10:27:42] INFO: New file detected -> C:\Users\admin\SecureWatch\gee.exe
+[2026-02-14 10:27:42] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\gee.exe
+[2026-02-14 10:27:42] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\gee.exe
+[2026-02-14 10:27:42] INFO: ML Malicious Probability -> 0.3763582706451416 | File -> C:\Users\admin\SecureWatch\gee.exe
+[2026-02-14 10:27:42] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\gee.exe
+[2026-02-14 10:27:43] BLOCKED: Unsafe file quarantined -> C:\Users\admin\Quarantine\gee.exe
+[2026-02-14 11:57:23] SYSTEM: SecureFileGuard started
+[2026-02-14 11:57:23] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-14 11:57:23] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-14 12:00:30] SYSTEM: SecureFileGuard started
+[2026-02-14 12:00:30] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-14 12:00:30] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-14 12:03:13] INFO: New file detected -> C:\Users\admin\SecureWatch\suba.txt
+[2026-02-14 12:03:13] INFO: Detected extension -> .txt | File -> C:\Users\admin\SecureWatch\suba.txt
+[2026-02-14 12:03:13] SAFE: File allowed -> C:\Users\admin\SecureWatch\suba.txt
+[2026-02-18 17:31:53] SYSTEM: SecureFileGuard started
+[2026-02-18 17:31:53] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 17:31:53] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 17:34:00] INFO: New file detected -> C:\Users\admin\SecureWatch\shree.txt
+[2026-02-18 17:34:00] INFO: Detected extension -> .txt | File -> C:\Users\admin\SecureWatch\shree.txt
+[2026-02-18 17:34:00] SAFE: File allowed -> C:\Users\admin\SecureWatch\shree.txt
+[2026-02-18 17:34:53] INFO: New file detected -> C:\Users\admin\SecureWatch\shree.exe
+[2026-02-18 17:34:53] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\shree.exe
+[2026-02-18 17:34:53] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\shree.exe
+[2026-02-18 17:34:53] INFO: ML Malicious Probability -> 0.3215314745903015 | File -> C:\Users\admin\SecureWatch\shree.exe
+[2026-02-18 17:34:53] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\shree.exe
+[2026-02-18 17:34:54] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\shree.exe
+[2026-02-18 17:38:01] SYSTEM: Monitoring stopped
+[2026-02-18 17:38:11] SYSTEM: SecureFileGuard started
+[2026-02-18 17:38:11] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 17:38:11] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 17:38:35] INFO: New file detected -> C:\Users\admin\SecureWatch\harini.exe
+[2026-02-18 17:38:35] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\harini.exe
+[2026-02-18 17:38:35] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\harini.exe
+[2026-02-18 17:38:35] INFO: ML Malicious Probability -> 0.35645729303359985 | File -> C:\Users\admin\SecureWatch\harini.exe
+[2026-02-18 17:38:35] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\harini.exe
+[2026-02-18 17:38:37] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\harini.exe
+[2026-02-18 17:41:24] SYSTEM: SecureFileGuard started
+[2026-02-18 17:41:24] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 17:41:24] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 17:41:45] INFO: New file detected -> C:\Users\admin\SecureWatch\priya.exe
+[2026-02-18 17:41:45] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\priya.exe
+[2026-02-18 17:41:45] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\priya.exe
+[2026-02-18 17:41:45] INFO: ML Malicious Probability -> 0.05596281960606575 | File -> C:\Users\admin\SecureWatch\priya.exe
+[2026-02-18 17:41:45] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\priya.exe
+[2026-02-18 17:42:27] INFO: New file detected -> C:\Users\admin\SecureWatch\deva.exe
+[2026-02-18 17:42:27] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\deva.exe
+[2026-02-18 17:42:27] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\deva.exe
+[2026-02-18 17:42:27] INFO: ML Malicious Probability -> 0.39402884244918823 | File -> C:\Users\admin\SecureWatch\deva.exe
+[2026-02-18 17:42:27] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\deva.exe
+[2026-02-18 17:42:28] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\deva.exe
+[2026-02-18 17:47:22] SYSTEM: SecureFileGuard started
+[2026-02-18 17:47:22] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 17:47:22] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 17:47:52] INFO: New file detected -> C:\Users\admin\SecureWatch\wrld.exe
+[2026-02-18 17:47:52] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\wrld.exe
+[2026-02-18 17:47:52] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\wrld.exe
+[2026-02-18 17:47:52] INFO: ML Malicious Probability -> 0.627641499042511 | File -> C:\Users\admin\SecureWatch\wrld.exe
+[2026-02-18 17:47:52] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\wrld.exe
+[2026-02-18 17:47:53] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\wrld.exe
+[2026-02-18 17:53:11] SYSTEM: Monitoring stopped
+[2026-02-18 17:54:25] SYSTEM: SecureFileGuard started
+[2026-02-18 17:54:25] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 17:54:25] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 17:54:53] INFO: New file detected -> C:\Users\admin\SecureWatch\dhar.exe
+[2026-02-18 17:54:53] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\dhar.exe
+[2026-02-18 17:54:53] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\dhar.exe
+[2026-02-18 17:54:53] INFO: ML Malicious Probability -> 0.10052279382944107 | File -> C:\Users\admin\SecureWatch\dhar.exe
+[2026-02-18 17:54:53] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\dhar.exe
+[2026-02-18 17:55:29] INFO: New file detected -> C:\Users\admin\SecureWatch\sci.exe
+[2026-02-18 17:55:29] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\sci.exe
+[2026-02-18 17:55:29] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\sci.exe
+[2026-02-18 17:55:29] INFO: ML Malicious Probability -> 0.025916235521435738 | File -> C:\Users\admin\SecureWatch\sci.exe
+[2026-02-18 17:55:29] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\sci.exe
+[2026-02-18 17:58:31] SYSTEM: SecureFileGuard started
+[2026-02-18 17:58:31] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 17:58:31] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 17:58:56] INFO: New file detected -> C:\Users\admin\SecureWatch\gokul.exe
+[2026-02-18 17:58:56] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\gokul.exe
+[2026-02-18 17:58:56] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\gokul.exe
+[2026-02-18 17:58:56] INFO: ML Malicious Probability -> 0.5766641497612 | File -> C:\Users\admin\SecureWatch\gokul.exe
+[2026-02-18 17:58:56] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\gokul.exe
+[2026-02-18 17:58:57] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\gokul.exe
+[2026-02-18 18:07:18] SYSTEM: SecureFileGuard started
+[2026-02-18 18:07:18] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 18:07:18] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 18:07:41] INFO: New file detected -> C:\Users\admin\SecureWatch\mano.exe
+[2026-02-18 18:07:41] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\mano.exe
+[2026-02-18 18:07:41] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\mano.exe
+[2026-02-18 18:07:41] INFO: ML Malicious Probability -> 0.11422212421894073 | File -> C:\Users\admin\SecureWatch\mano.exe
+[2026-02-18 18:07:41] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\mano.exe
+[2026-02-18 18:11:58] INFO: New file detected -> C:\Users\admin\SecureWatch\gooo.exe
+[2026-02-18 18:11:58] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\gooo.exe
+[2026-02-18 18:11:58] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\gooo.exe
+[2026-02-18 18:11:58] INFO: ML Malicious Probability -> 0.08932627737522125 | File -> C:\Users\admin\SecureWatch\gooo.exe
+[2026-02-18 18:11:58] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\gooo.exe
+[2026-02-18 18:14:49] SYSTEM: Monitoring stopped
+[2026-02-18 18:16:24] SYSTEM: SecureFileGuard started
+[2026-02-18 18:16:24] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 18:16:24] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 18:16:54] INFO: New file detected -> C:\Users\admin\SecureWatch\moooo.exe
+[2026-02-18 18:16:54] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\moooo.exe
+[2026-02-18 18:16:54] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\moooo.exe
+[2026-02-18 18:16:54] INFO: ML Malicious Probability -> 0.08602776378393173 | File -> C:\Users\admin\SecureWatch\moooo.exe
+[2026-02-18 18:16:54] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\moooo.exe
+[2026-02-18 18:16:55] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\moooo.exe
+[2026-02-18 18:22:02] SYSTEM: Monitoring stopped
+[2026-02-18 18:27:33] SYSTEM: SecureFileGuard started
+[2026-02-18 18:27:33] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 18:27:33] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 18:28:13] INFO: New file detected -> C:\Users\admin\SecureWatch\virus.exe
+[2026-02-18 18:28:13] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\virus.exe
+[2026-02-18 18:28:13] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\virus.exe
+[2026-02-18 18:28:13] INFO: ML Malicious Probability -> 0.01448136381804943 | File -> C:\Users\admin\SecureWatch\virus.exe
+[2026-02-18 18:28:13] SAFE: ML allowed file -> C:\Users\admin\SecureWatch\virus.exe
+[2026-02-18 18:28:35] SYSTEM: Monitoring stopped
+[2026-02-18 18:39:28] SYSTEM: SecureFileGuard started
+[2026-02-18 18:39:28] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 18:39:28] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 18:39:54] INFO: New file detected -> C:\Users\admin\SecureWatch\clr.exe
+[2026-02-18 18:39:54] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\clr.exe
+[2026-02-18 18:39:54] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\clr.exe
+[2026-02-18 18:39:54] INFO: ML Malicious Probability -> 0.5487219095230103 | File -> C:\Users\admin\SecureWatch\clr.exe
+[2026-02-18 18:39:54] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\clr.exe
+[2026-02-18 18:39:55] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\clr.exe
+[2026-02-18 18:39:55] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\clr.exe
+[2026-02-18 18:48:52] SYSTEM: SecureFileGuard started
+[2026-02-18 18:48:52] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 18:48:52] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 18:51:34] SYSTEM: Monitoring stopped
+[2026-02-18 18:52:44] SYSTEM: SecureFileGuard started
+[2026-02-18 18:52:44] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 18:52:44] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 18:53:47] INFO: New file detected -> C:\Users\admin\SecureWatch\shee.exe
+[2026-02-18 18:53:47] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\shee.exe
+[2026-02-18 18:53:47] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\shee.exe
+[2026-02-18 18:53:47] INFO: ML Malicious Probability -> 0.02788226678967476 | File -> C:\Users\admin\SecureWatch\shee.exe
+[2026-02-18 18:53:47] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\shee.exe
+[2026-02-18 18:53:48] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\shee.exe
+[2026-02-18 18:53:48] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\shee.exe
+[2026-02-18 18:58:40] SYSTEM: SecureFileGuard started
+[2026-02-18 18:58:40] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 18:58:40] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 18:59:04] INFO: New file detected -> C:\Users\admin\SecureWatch\head1.txt
+[2026-02-18 18:59:04] INFO: Detected extension -> .txt | File -> C:\Users\admin\SecureWatch\head1.txt
+[2026-02-18 18:59:04] SAFE: File allowed -> C:\Users\admin\SecureWatch\head1.txt
+[2026-02-18 18:59:35] INFO: New file detected -> C:\Users\admin\SecureWatch\ss.exe
+[2026-02-18 18:59:35] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\ss.exe
+[2026-02-18 18:59:35] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\ss.exe
+[2026-02-18 18:59:35] INFO: ML Malicious Probability -> 0.7568010687828064 | File -> C:\Users\admin\SecureWatch\ss.exe
+[2026-02-18 18:59:35] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\ss.exe
+[2026-02-18 18:59:36] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\ss.exe
+[2026-02-18 18:59:36] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\ss.exe
+[2026-02-18 19:05:42] SYSTEM: Monitoring stopped
+[2026-02-18 19:06:31] SYSTEM: SecureFileGuard started
+[2026-02-18 19:06:31] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 19:06:31] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 19:07:36] INFO: New file detected -> C:\Users\admin\SecureWatch\mad.exe
+[2026-02-18 19:07:36] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\mad.exe
+[2026-02-18 19:07:36] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\mad.exe
+[2026-02-18 19:07:36] INFO: ML Malicious Probability -> 0.4192463457584381 | File -> C:\Users\admin\SecureWatch\mad.exe
+[2026-02-18 19:07:36] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\mad.exe
+[2026-02-18 19:07:37] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\mad.exe
+[2026-02-18 19:07:37] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\mad.exe
+[2026-02-18 19:25:09] SYSTEM: SecureFileGuard started
+[2026-02-18 19:25:09] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 19:25:09] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 19:29:07] INFO: New file detected -> C:\Users\admin\SecureWatch\hees.exe
+[2026-02-18 19:29:07] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\hees.exe
+[2026-02-18 19:29:07] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\hees.exe
+[2026-02-18 19:29:07] INFO: ML Malicious Probability -> 0.689949095249176 | File -> C:\Users\admin\SecureWatch\hees.exe
+[2026-02-18 19:29:07] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\hees.exe
+[2026-02-18 19:29:08] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\hees.exe
+[2026-02-18 19:29:08] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\hees.exe
+[2026-02-18 19:57:20] SYSTEM: SecureFileGuard started
+[2026-02-18 19:57:20] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-18 19:57:20] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-18 20:13:03] SYSTEM: Monitoring stopped
+[2026-02-19 12:00:34] SYSTEM: SecureFileGuard started
+[2026-02-19 12:00:34] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-19 12:00:34] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-19 12:01:32] INFO: New file detected -> C:\Users\admin\SecureWatch\gayu.exe
+[2026-02-19 12:01:32] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\gayu.exe
+[2026-02-19 12:01:32] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\gayu.exe
+[2026-02-19 12:01:32] INFO: ML Malicious Probability -> 0.047731589525938034 | File -> C:\Users\admin\SecureWatch\gayu.exe
+[2026-02-19 12:01:32] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\gayu.exe
+[2026-02-19 12:01:33] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\gayu.exe
+[2026-02-19 12:01:33] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\gayu.exe
+[2026-02-23 14:34:24] SYSTEM: SecureFileGuard started
+[2026-02-23 14:34:24] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-02-23 14:34:24] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-02-23 14:36:46] INFO: New file detected -> C:\Users\admin\SecureWatch\pic.exe
+[2026-02-23 14:36:46] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\pic.exe
+[2026-02-23 14:36:46] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\pic.exe
+[2026-02-23 14:36:46] INFO: ML Malicious Probability -> 0.1399175226688385 | File -> C:\Users\admin\SecureWatch\pic.exe
+[2026-02-23 14:36:46] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\pic.exe
+[2026-02-23 14:36:47] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\pic.exe
+[2026-02-23 14:36:49] ERROR: Network alert failed -> [WinError 10061] No connection could be made because the target machine actively refused it
+[2026-02-23 14:37:20] INFO: New file detected -> C:\Users\admin\SecureWatch\ult1.exe
+[2026-02-23 14:37:20] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\ult1.exe
+[2026-02-23 14:37:20] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\ult1.exe
+[2026-02-23 14:37:20] INFO: ML Malicious Probability -> 0.4681713879108429 | File -> C:\Users\admin\SecureWatch\ult1.exe
+[2026-02-23 14:37:20] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\ult1.exe
+[2026-02-23 14:37:21] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\ult1.exe
+[2026-02-23 14:37:21] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\ult1.exe
+[2026-02-23 14:48:48] INFO: New file detected -> C:\Users\admin\SecureWatch\gayu2.txt
+[2026-02-23 14:48:48] INFO: Detected extension -> .txt | File -> C:\Users\admin\SecureWatch\gayu2.txt
+[2026-02-23 14:48:48] SAFE: File allowed -> C:\Users\admin\SecureWatch\gayu2.txt
+[2026-03-02 10:56:17] SYSTEM: SecureFileGuard started
+[2026-03-02 10:56:17] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-03-02 10:56:17] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-03-02 10:57:54] INFO: New file detected -> C:\Users\admin\SecureWatch\live.exe
+[2026-03-02 10:57:54] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\live.exe
+[2026-03-02 10:57:54] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\live.exe
+[2026-03-02 10:57:54] INFO: ML Malicious Probability -> 0.042127110064029694 | File -> C:\Users\admin\SecureWatch\live.exe
+[2026-03-02 10:57:54] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\live.exe
+[2026-03-02 10:57:55] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\live.exe
+[2026-03-02 10:57:55] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\live.exe
+[2026-03-02 11:07:22] SYSTEM: Monitoring stopped
+[2026-03-02 11:09:54] SYSTEM: SecureFileGuard started
+[2026-03-02 11:09:54] SYSTEM: Monitoring folder -> C:\Users\admin\SecureWatch
+[2026-03-02 11:09:54] SYSTEM: Quarantine folder -> C:\Users\admin\Quarantine
+[2026-03-02 11:10:20] INFO: New file detected -> C:\Users\admin\SecureWatch\end.exe
+[2026-03-02 11:10:20] INFO: Detected extension -> .exe | File -> C:\Users\admin\SecureWatch\end.exe
+[2026-03-02 11:10:20] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\end.exe
+[2026-03-02 11:10:20] INFO: ML Malicious Probability -> 0.1632479578256607 | File -> C:\Users\admin\SecureWatch\end.exe
+[2026-03-02 11:10:20] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\end.exe
+[2026-03-02 11:10:21] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\end.exe
+[2026-03-02 11:10:21] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\end.exe
+[2026-03-02 11:23:19] INFO: New file detected -> C:\Users\admin\SecureWatch\jan.exe
+[2026-03-02 11:23:19] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\jan.exe
+[2026-03-02 11:23:19] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\jan.exe
+[2026-03-02 11:23:20] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\jan.exe
+[2026-03-02 11:23:22] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\jan.exe
+[2026-03-02 11:36:05] INFO: New file detected -> C:\Users\admin\SecureWatch\pic.exe
+[2026-03-02 11:36:05] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\pic.exe
+[2026-03-02 11:36:05] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\pic.exe
+[2026-03-02 11:36:06] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\pic.exe
+[2026-03-02 11:36:08] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\pic.exe
+[2026-03-02 11:49:30] INFO: New file detected -> C:\Users\admin\SecureWatch\Untitled.exe
+[2026-03-02 11:49:30] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\Untitled.exe
+[2026-03-02 11:49:30] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\Untitled.exe
+[2026-03-02 11:49:31] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\Untitled.exe
+[2026-03-02 11:49:35] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\Untitled.exe
+[2026-03-02 12:42:20] INFO: New file detected -> C:\Users\admin\SecureWatch\fff.exe
+[2026-03-02 12:42:20] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\fff.exe
+[2026-03-02 12:42:20] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\fff.exe
+[2026-03-02 12:42:21] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\fff.exe
+[2026-03-02 12:42:25] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\fff.exe
+[2026-03-02 12:50:41] INFO: New file detected -> C:\Users\admin\SecureWatch\Job Description.pdf
+[2026-03-02 12:50:41] SAFE: File allowed -> C:\Users\admin\SecureWatch\Job Description.pdf
+[2026-03-03 10:06:52] INFO: New file detected -> C:\Users\admin\SecureWatch\tesst.exe
+[2026-03-03 10:06:52] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\tesst.exe
+[2026-03-03 10:06:53] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\tesst.exe
+[2026-03-03 10:06:54] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\tesst.exe
+[2026-03-03 10:30:36] INFO: New file detected -> C:\Users\admin\SecureWatch\test.exe
+[2026-03-03 10:30:36] WARNING: Suspicious extension -> C:\Users\admin\SecureWatch\test.exe
+[2026-03-03 10:30:36] BLOCKED: ML detected malicious file -> C:\Users\admin\SecureWatch\test.exe
+[2026-03-03 10:30:37] BLOCKED: File quarantined -> C:\Users\admin\Quarantine\test.exe
+[2026-03-03 10:30:40] ALERT SENT -> Malicious file blocked: C:\Users\admin\SecureWatch\test.exe
+[2026-03-03 10:40:43] INFO: New file detected -> C:\Users\admin\SecureWatch\introduction to ai.pdf
+[2026-03-03 10:40:43] SAFE: File allowed -> C:\Users\admin\SecureWatch\introduction to ai.pdf
+[2026-03-03 10:40:43] ALERT SENT -> Safe file detected: C:\Users\admin\SecureWatch\introduction to ai.pdf
+[2026-03-03 10:54:28] INFO: New file detected -> C:\Users\admin\image view.py
+[2026-03-03 10:54:28] SAFE: File allowed -> C:\Users\admin\image view.py
+[2026-03-03 10:54:28] ALERT SENT -> Safe file detected: C:\Users\admin\image view.py
+[2026-03-03 10:54:28] INFO: New file detected -> C:\Users\admin\OneDrive\Desktop\SecureFileGuard\alerts.db-journal
+[2026-03-03 10:54:28] SAFE: File allowed -> C:\Users\admin\OneDrive\Desktop\SecureFileGuard\alerts.db-journal
+[2026-03-03 10:54:28] ALERT SENT -> Safe file detected: C:\Users\admin\OneDrive\Desktop\SecureFileGuard\alerts.db-journal
+[2026-03-03 10:55:08] INFO: New file detected -> C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot (244).png
+[2026-03-03 10:55:08] SAFE: File allowed -> C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot (244).png
+[2026-03-03 10:55:08] ALERT SENT -> Safe file detected: C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot (244).png

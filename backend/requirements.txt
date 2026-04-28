@@ -1,0 +1,13 @@
+flask
+flask-cors
+flask-socketio
+pandas
+scikit-learn
+joblib
+xgboost
+watchdog
+plyer
+psutil
+twilio
+requests
+numpy
