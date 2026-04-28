@@ -4,6 +4,9 @@ import os
 import json
 import csv
 from datetime import datetime
+from config import load_env
+
+load_env()
 
 app = Flask(__name__)
 CORS(app)
@@ -45,13 +48,15 @@ def send_whatsapp(message):
 
         account_sid = os.getenv("TWILIO_SID", "")
         auth_token = os.getenv("TWILIO_AUTH", "")
+        from_number = os.getenv("TWILIO_FROM", "whatsapp:+14155238886")
+        to_number = os.getenv("TWILIO_TO", "whatsapp:+919943441031")
 
         client = Client(account_sid, auth_token)
 
         client.messages.create(
             body=message,
-            from_="whatsapp:+14155238886",
-            to="whatsapp:+919943441031"
+            from_=from_number,
+            to=to_number
         )
 
         print("📲 WhatsApp Sent")

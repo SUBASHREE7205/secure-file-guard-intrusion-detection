@@ -2,6 +2,9 @@ import socket
 import smtplib
 import requests
 from email.mime.text import MIMEText
+from config import load_env
+
+load_env()
 
 # CONFIG
 HOST = "127.0.0.1"

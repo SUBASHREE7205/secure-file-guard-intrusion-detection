@@ -15,10 +15,13 @@ import psutil
 from datetime import datetime
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
+from config import load_env
 
 # Fix Windows console encoding so print() never crashes
 import io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+
+load_env()
 
 # Ensure we always resolve paths relative to this script
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
