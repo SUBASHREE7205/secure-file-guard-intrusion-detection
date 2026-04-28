@@ -1,0 +1,88 @@
+/* src/index.css */
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Custom Professional Highlight Color */
+  ::selection {
+    background-color: rgba(16, 185, 129, 0.4); /* Tailwind emerald-500 with opacity */
+    color: #ffffff;
+  }
+
+  /* ============================================================
+     ULTRA-MODERN CUSTOM SCROLLBAR
+     ============================================================ */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #020617; /* Slate 950 to match darkest background */
+    border-left: 1px solid #1e293b; /* Subtle line separating track */
+  }
+
+  /* Thumb */
+  ::-webkit-scrollbar-thumb {
+    background: #1e293b; 
+    border-radius: 10px;
+  }
+
+  /* Hover effect for thumb */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #10b981; /* Glows emerald green on mouse over */
+  }
+
+  /* ============================================================
+     GLASSMORPHIC DATE INPUT FIXES
+     ============================================================ */
+  .modern-date-input {
+    color-scheme: dark; /* Forces dark mode popup picker to match theme */
+  }
+  
+  .modern-date-input::-webkit-calendar-picker-indicator {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    z-index: 10;
+  }
+
+  /* ============================================================
+     GLOBAL ANIMATIONS (SKELETON & PULSE)
+     ============================================================ */
+  @keyframes shimmer {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+
+  .skeleton-text {
+    height: 36px;
+    width: 60%;
+    background: linear-gradient(90deg, #e2e8f0 25%, #f1f5f9 50%, #e2e8f0 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite linear;
+    border-radius: 8px;
+    margin-top: 5px;
+  }
+
+  @keyframes pulseGlow {
+    0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
+    70% { transform: scale(1); box-shadow: 0 0 0 8px rgba(16, 185, 129, 0); }
+    100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+  }
+
+  .pulse-dot {
+    animation: pulseGlow 2s infinite;
+  }
+}
