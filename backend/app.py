@@ -9,8 +9,9 @@ app = Flask(__name__)
 CORS(app)
 
 # ================= CONFIG =================
-UPLOAD_FOLDER = "uploads"
-DATA_FILE = "data.json"
+BASE_DIR = os.path.abspath(os.path.dirname(__file__))
+UPLOAD_FOLDER = os.path.join(BASE_DIR, "uploads")
+DATA_FILE = os.path.join(BASE_DIR, "data.json")
 
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
@@ -64,7 +65,8 @@ from extract_features import extract_features
 
 # Load the AI Model
 try:
-    xgb_model = joblib.load("xgb_model.pkl")
+    model_path = os.path.join(BASE_DIR, "xgb_model.pkl")
+    xgb_model = joblib.load(model_path)
 except Exception as e:
     print("Warning: Could not load XGBoost model:", e)
     xgb_model = None
